@@ -1,5 +1,5 @@
 {
-  "name": "winston_stderr_transport",
+  "name": "winston-stderr",
   "version": "0.0.2",
   "description": "Winston transport to log everything to stderr",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/greglearns/winston_stderr_transport.git"
+    "url": "git://github.com/greglearns/winston-stderr.git"
   },
   "keywords": [
     "winston",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/greglearns/winston_stderr_transport/issues"
+    "url": "https://github.com/greglearns/winston-stderr/issues"
   },
   "dependencies": {
     "winston": "~0.7.2"
