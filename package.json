@@ -1,6 +1,6 @@
 {
   "name": "winston-stderr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Winston transport to log everything to stderr",
   "main": "index.js",
   "scripts": {
